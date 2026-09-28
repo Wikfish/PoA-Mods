@@ -1,11 +1,11 @@
-## PoA-Mods
+# PoA-Mods
 Some mods and tools about the game Phoenotopia Awakening.
 
-# Mods
+## Mods
 [PoA BossRechallenge](https://github.com/Wikfish/PoA-Boss-ReChallenge)
 
 
-# tools
+## tools
 [PoA LevelInjector](https://github.com/Wikfish/PoA-LevelInjector)
 
 [PoA DialogueInjector](https://github.com/Wikfish/PoA-DialogueInjector)
